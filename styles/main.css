@@ -1,0 +1,138 @@
+
+/* 
+Source Sans 
+font-family: 'Source Sans Pro', sans-serif; 
+
+Oswald
+font-family: 'Oswald', sans-serif;
+
+Merriweather
+font-family: 'Merriweather', serif;
+*/
+
+#my-theme .sans {
+	font-family: 'Source Sans Pro', sans-serif; 
+}
+
+#my-theme .oswald {
+	font-family: 'Oswald', sans-serif;
+}
+
+#my-theme .merriweather {
+	font-family: 'Merriweather', sans-serif; 
+}
+
+#my-theme .header-style-top {
+	background: black;
+    color: yellow;
+    font-family: 'Source Sans Pro', sans-serif; 
+}
+#my-theme .header-style-bottom {
+	background: black;
+    color: white;
+    border-bottom: solid yellow .5rem;
+   
+	padding-left: 0px;
+
+}
+
+#my-theme .header-style-find {
+	font-weight: 900; 
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+#my-theme .last-list{
+	padding-right: 1rem;
+}
+
+#my-theme .no-padding-lr{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+#my-theme .grey-box {
+	background-color: grey; 
+	padding-right: 0px;
+	padding-left: 0px; 
+	min-height: 3rem;
+	color: black;
+	font-weight: bold;
+	font-style: italic;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+	font-size: 1.5rem;
+	width: 100%;
+}
+
+#my-theme .background-img {
+	background-image: url("../assests/coworking.jpg");
+	background-color: transparent;
+	background-size: cover;
+	min-height: 500px;
+}
+
+#my-theme .no-padding {
+	padding-top: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-bottom: 1.5rem; 
+
+}
+
+#my-theme .left-line {
+	border-left: solid grey 2px;
+
+}
+
+#my-theme .button-layout{
+	width: 100%;
+	font-size: 1.2rem;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+#my-theme .button-layout-yellow {
+	background-color: yellow;
+	opacity: 1.0; 
+	width: inherit;
+	margin-left: .5rem;
+}
+
+#my-theme .footer {
+	color: white;
+	background: black;
+	margin-top: 2rem;
+}
+
+del {
+	color: lightgrey;
+}
+
+ins {
+	text-decoration-color: yellow;
+}
+
+#my-theme .floating-box{
+	border: solid black 2px;
+	background-color: #ffffff;
+	opacity: 0.8;
+	margin-left: 32rem;
+    margin-right: 2rem;
+    padding: 2rem;
+    margin-top: 2rem;
+    min-width: 15rem;
+}
+
+#my-theme .inline-block {
+	display: inline-block;
+}
+
+#my-theme .full-width{
+	min-width: 100%;
+}
+
+
+
+
+
